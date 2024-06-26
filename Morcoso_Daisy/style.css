@@ -1,6 +1,4 @@
-/* style.css */
 
-/* General reset */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,13 +6,13 @@
 }
 
 body {
-  background-color: #ffb58e;
+  background-color: #f19563;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
   background-color: rgba(65, 23, 0, 0.825);
-  color: rgb(245, 205, 179);
+  color: rgb(9, 9, 9);
   text-align: center;
   padding: 20px;
   margin: 0;
